@@ -1,0 +1,25 @@
+python中的布尔类型只有两个值:True和False
+
+布尔类型有以下几种运算：
+
+与运算：只有两个布尔值都为True时，计算结果才为True.
+
+True and True     # ===> True
+
+True and False    # ===> False
+
+False and True    # ===> False
+
+False and False   # ===> False
+
+或运算：只要有一个布尔值为True，计算结果就是True
+
+True or True     # ===> True
+
+True or False    # ===> True
+
+False or True    # ===> True
+
+False or False   # ===> False
+
+非运算：把True变为False , 把False变为True

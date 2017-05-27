@@ -1,0 +1,8 @@
+python添加了对Unicode的支持，以Unicode表示的字符串用u'...'表示：
+print u'中文'
+
+注意：不加u,中文不能正常显示
+
+
+# -*- coding: utf-8 -*-
+目的是告诉Python解释器，用UTF-8编码读取源代码。然后用Notepad++ 另存为... 并选择UTF-8格式保存。
